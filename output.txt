@@ -1,0 +1,80 @@
+Generation: 0
+010
+010
+010
+
+Generation: 2
+010
+010
+010
+
+Generation: 4
+010
+010
+010
+
+Generation: 4
+010
+010
+010
+
+Generation: 6
+010
+010
+010
+
+Generation: 8
+010
+010
+010
+
+Generation: 10
+010
+010
+010
+
+Generation: 12
+010
+010
+010
+
+Generation: 14
+010
+010
+010
+
+Generation: 16
+010
+010
+010
+
+Generation: 18
+010
+010
+010
+
+Generation: 20
+010
+010
+010
+
+Generation: 22
+010
+010
+010
+
+Generation: 24
+010
+010
+010
+
+Generation: 26
+010
+010
+010
+
+Generation: 28
+010
+010
+010
+

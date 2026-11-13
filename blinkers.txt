@@ -1,0 +1,55 @@
+Generation: 0
+010
+010
+010
+
+Generation: 1
+000
+111
+000
+
+Generation: 2
+010
+010
+010
+
+Generation: 3
+000
+111
+000
+
+Generation: 4
+010
+010
+010
+
+Generation: 5
+000
+111
+000
+
+Generation: 6
+010
+010
+010
+
+Generation: 7
+000
+111
+000
+
+Generation: 8
+010
+010
+010
+
+Generation: 9
+000
+111
+000
+
+Generation: 10
+010
+010
+010
+
